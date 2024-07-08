@@ -48,6 +48,8 @@ python_challenge
 
     Your analysis should align with the following results:
 
+    ----------------------------
+
     Financial Analysis
    
     ----------------------------
@@ -61,6 +63,8 @@ python_challenge
     Greatest Increase in Profits: Aug-16 ($1862002)
    
     Greatest Decrease in Profits: Feb-14 ($-1825558)
+
+    ----------------------------
 
     In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
@@ -81,6 +85,8 @@ python_challenge
     --> The winner of the election based on popular vote
 
     Your analysis should align with the following results:
+
+    ----------------------------
 
     Election Results
    
